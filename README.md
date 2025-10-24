@@ -3,9 +3,6 @@
 
 Email Me 👉 ✉️ **rafaelcharlenemae.m@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 😄 **Pronouns:** Charlene Mae Rafael
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
