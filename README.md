@@ -1,12 +1,12 @@
 # 💫 Hi 👋, I'm Charlene Mae M. Rafael
 **A passionate Web Developer**
 
-Email Me 👉 ✉️ **rafaelcharlenemae.m@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **rafaelcharlenemae.m@gmail.com** For Collaboration/Project or Anything Else.
 
-<!-- Snake Game Repo View -->
+<!-- Snake Game Placeholder -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/charlenemaerafael/your-repo/main/assets/snake.gif" alt="Snake animation" width="300" />
 </div>
 
 # 💻 Tech Stack:
@@ -28,9 +28,5 @@ Email Me 👉 ✉️ **rafaelcharlenemae.m@gmail.com** For Collaboration/Project
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chrlnmae_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-charlene-mae-m-163505346/)
 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
